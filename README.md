@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codinggrl
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development,focused on Frontend.
 - 🌱 I’m currently learning Ract
 
 - 📫 Reach me https://www.linkedin.com/in/ivanapiljic/
